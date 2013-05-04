@@ -1,0 +1,14 @@
+{
+  "name": "edp-mb-example",
+  "version": "0.1.0",
+  "description": "Example soure for edp-mb",
+  "repository": "",
+  "keywords": [
+    "edp",
+    "mb",
+    "example"
+  ],
+  "author": "cxl",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}

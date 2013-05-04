@@ -1,0 +1,7 @@
+{
+    "wwwroot": "/",
+    "libDir": "lib",
+    "srcDir": "src",
+    "loaderAutoConfig": "js,htm,html,tpl,vm,phtml",
+    "loaderUrl": "http://fe.bdimg.com/ecom/esl-1.2.0.js"
+}
